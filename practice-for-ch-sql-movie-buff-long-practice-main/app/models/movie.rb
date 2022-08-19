@@ -7,8 +7,7 @@
 #  yr          :integer          not null
 #  score       :float            not null
 #  votes       :integer          not null
-#  director_id :bigint           
-#  created_at  :datetime         not null
+#  director_id :bigint  ac created_at  :datetime         not null
 #  updated_at  :datetime         not null
 #
 class Movie < ApplicationRecord
